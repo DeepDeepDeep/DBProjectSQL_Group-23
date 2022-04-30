@@ -8,3 +8,4 @@
 	"DEBIT" VARCHAR2(20 BYTE),
    "CASH" VARCHAR2(20 BYTE)
    );
+   
