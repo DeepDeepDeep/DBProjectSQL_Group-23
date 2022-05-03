@@ -1,4 +1,4 @@
-/*2. Find the average number of books borrowed by the top five gold members
+/*3. Find the average number of books borrowed by the top five gold members
 in the library*/
 
 /*Average out num_bor for top 5 members of the decending sorted list*/
